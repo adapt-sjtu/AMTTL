@@ -6,7 +6,7 @@ Processed open-source datasets are available in `data` folder. Annotated medical
 
 Run `python3 main.py -h` to see how to specify your own model settings or datasets.
 
-For training, use the command `python3 main.py --train -t 2 -p mmd` to train the model with model type 2 and  `mmd` penalty.
+For training, use the command `python3 main.py train -t 2 -p mmd` to train the model with model type 2 and  `mmd` penalty.
 
 
 ## Contact
